@@ -1,2 +1,2 @@
 # music-player-cpp
-Music players with audio effects in c++, using fltk and sfml libraries
+Music player with audio effects in c++, using fltk and sfml libraries
